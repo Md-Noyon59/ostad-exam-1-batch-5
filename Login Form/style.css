@@ -1,0 +1,153 @@
+
+
+.div1{
+    background-color: black;
+   position: relative;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    margin-top: 200px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: #EEEEEE;
+    box-shadow: 1px 1px 1px grey,-1px -1px 1px gray;
+
+
+}
+.registration{
+    color: white;
+    background:linear-gradient( to left, rgb(203, 20, 207),rgb(26, 179, 168));
+    font-weight: 300;
+    text-align: center;
+    padding: 20px 10px;
+    margin-top: 0px;
+    border-radius: 20px 20px 0px 0px ;
+    border-bottom: 2px solid green;
+    
+}
+
+
+
+.main-div{
+    width: 810px;
+    height: auto;
+    display: flex;
+    margin-top: 0px;
+    
+}
+.left-div{
+    width: 50%;
+    height: 250px;
+    margin-left: 30px;
+    
+    
+
+}
+.right-div{
+ margin-left: 0px;
+    width: 63%;
+    height: 290px;
+    
+5
+    
+}
+
+
+.full-name {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+padding-right: 20px;
+line-height: 52px;   
+
+}
+.email{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+padding-right: 65px;
+line-height: 50px;   
+}
+.password {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+padding-right: 25px;
+line-height: 50px;  
+margin-bottom: 37px; 
+
+}
+
+.username {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+padding-right: 120px;
+line-height: 50px;   
+}
+.number {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+padding-right: 70px;
+line-height: 50px;   
+}
+.c-password {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+padding-right: 20px;
+line-height: 50px;   
+}
+
+
+.gender{
+    font-size: 25px;
+    top:38px
+}
+input{
+  font-size: 15px;
+   border-radius: 5px; 
+   border: 1px solid rgb(186, 179, 179);
+   padding: 8px 0px;
+   padding-left: 10px;
+
+   
+}
+input::placeholder{
+    color:gray;
+    
+    
+}
+
+.btn{
+    background-color:red;
+    padding: 10px 36px;
+    margin-top: 0px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 7px;
+    margin-right: 20px;
+}
+.btn2{
+    background:linear-gradient( to left, rgb(203, 20, 207),rgb(45, 4, 87));
+    padding: 10px 36px;
+    margin-top: 0px;
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
+    border: none;
+}
+.btndiv{
+    
+    background:linear-gradient( to left, rgb(236, 235, 236),rgb(226, 222, 231)); 
+   position: relative;
+   
+   text-align: center;
+  padding: 20px 0px;
+   
+  border-radius: 0px 0px 20px 20px ;
+}
+
+
